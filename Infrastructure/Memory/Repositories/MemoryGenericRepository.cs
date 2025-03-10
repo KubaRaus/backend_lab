@@ -2,6 +2,7 @@
 using ApplicationCore.Commons.Specification;
 using Infrastructure.Memory.Generators;
 
+
 namespace Infrastructure.Memory.Repositories;
 
 public class MemoryGenericRepository<T, K>:IGenericRepository<T, K> where T: class, IIdentity<K> where K : IComparable<K>

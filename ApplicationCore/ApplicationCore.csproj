@@ -10,9 +10,5 @@
     <ItemGroup>
       <Folder Include="Commons" />
     </ItemGroup>
-
-    <ItemGroup>
-      <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="9.0.2" />
-    </ItemGroup>
-
+    
 </Project>
