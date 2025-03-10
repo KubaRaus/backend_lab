@@ -1,0 +1,12 @@
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.sourcelink.json
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net9.0\ApplicationCore.deps.json
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net9.0\ApplicationCore.dll
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\bin\Debug\net9.0\ApplicationCore.pdb
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.dll
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\refint\ApplicationCore.dll
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ApplicationCore.pdb
+C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\ApplicationCore\obj\Debug\net9.0\ref\ApplicationCore.dll
