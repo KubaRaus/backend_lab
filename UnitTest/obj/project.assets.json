@@ -9584,24 +9584,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jakub\\.nuget\\packages\\": {},
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj",
-      "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\UnitTest\\obj\\",
+      "projectPath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\UnitTest\\UnitTest.csproj",
+      "packagesPath": "D:\\Users\\jakub.raus\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\jakub.raus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9617,22 +9617,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj"
+            "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\Infrastructure\\Infrastructure.csproj"
             }
           }
         },
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj"
+            "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\jakub\\Downloads\\wsei-backend-lab-lab-01\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -9647,7 +9647,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -9694,7 +9694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       },
       "net9.0": {
         "targetAlias": "net9.0",
@@ -9740,7 +9740,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

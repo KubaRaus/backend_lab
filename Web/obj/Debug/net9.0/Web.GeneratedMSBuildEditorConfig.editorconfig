@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BackendLab01
 build_property.RootNamespace = BackendLab01
-build_property.ProjectDir = C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web\
+build_property.ProjectDir = D:\Users\jakub.raus\RiderProjects\backend_lab\Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jakub\Downloads\wsei-backend-lab-lab-01\wsei-backend-lab-lab-01\Web
+build_property.MSBuildProjectDirectory = D:\Users\jakub.raus\RiderProjects\backend_lab\Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Error.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Index.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Privacy.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Quiz/Item.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Quiz/Item.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVpelxJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Quiz/Summary.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Quiz/Summary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVpelxTdW1tYXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/_ViewImports.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/_ViewStart.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jakub/Downloads/wsei-backend-lab-lab-01/wsei-backend-lab-lab-01/Web/Pages/Shared/_Layout.cshtml]
+[D:/Users/jakub.raus/RiderProjects/backend_lab/Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-esyc55q667

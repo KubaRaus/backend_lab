@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5Ey5t4ngrM=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\jakub.raus\\RiderProjects\\backend_lab\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.2\\microsoft.aspnetcore.connections.abstractions.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\9.0.2\\microsoft.aspnetcore.http.connections.client.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\9.0.2\\microsoft.aspnetcore.http.connections.common.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\9.0.2\\microsoft.aspnetcore.signalr.client.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\9.0.2\\microsoft.aspnetcore.signalr.client.core.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\9.0.2\\microsoft.aspnetcore.signalr.common.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\9.0.2\\microsoft.aspnetcore.signalr.protocols.json.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.features\\9.0.2\\microsoft.extensions.features.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.logging\\9.0.2\\microsoft.extensions.logging.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\system.net.serversentevents\\9.0.2\\system.net.serversentevents.9.0.2.nupkg.sha512",
+    "D:\\Users\\jakub.raus\\.nuget\\packages\\system.threading.channels\\9.0.2\\system.threading.channels.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
