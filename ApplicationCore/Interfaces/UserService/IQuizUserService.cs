@@ -18,4 +18,10 @@ public interface IQuizUserService
         return GetUserAnswersForQuiz(quizId, userId)
             .Count(e => e.IsCorrect());
     }
+    Task<IEnumerable<QuizItem>> FindAllQuizItemsAsync(int quizId);
+    
+    Task<IEnumerable<Quiz>> FindAllAsync();
+    
+    IEnumerable<Quiz> findAllQuizzes();
+
 }

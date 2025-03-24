@@ -44,4 +44,23 @@ public class QuizUserService: IQuizUserService
         //     .ToList();
         return answerRepository.FindBySpecification(new QuizItemsForQuizIdFilledByUser(quizId, userId)).ToList();
     }
+    public async Task<IEnumerable<QuizItem>> FindAllQuizItemsAsync(int quizId)
+    {
+        var items = itemRepository.FindAll()
+            .Where(item => item.Id == quizId)
+            .OrderBy(item => item.Id);
+
+        return await Task.FromResult(items);
+    }
+    
+    public async Task<IEnumerable<Quiz>> FindAllAsync()
+    {
+        var quizzes = quizRepository.FindAll();
+        return await Task.FromResult(quizzes);
+    }
+
+    public IEnumerable<Quiz> findAllQuizzes()
+    {
+        return quizRepository.FindAll();
+    }
 }
