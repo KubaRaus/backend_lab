@@ -30,12 +30,6 @@ namespace WebAPI.Controllers
             return Ok(quizDto);
         }
         
-        // GET: api/<QuizController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
         [HttpGet]
         public IEnumerable<QuizDto> FindAll()
         {

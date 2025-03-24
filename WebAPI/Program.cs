@@ -1,5 +1,6 @@
 using ApplicationCore.Commons.Repository;
 using BackendLab01;
+using Infrastructure.Memory;
 using Infrastructure.Memory.Repositories;
 
 namespace WebAPI;
@@ -52,6 +53,9 @@ public class Program
             })
             .WithName("GetWeatherForecast");
 
+        app.MapControllers();
+        app.Seed();
+        
         app.Run();
     }
 }
