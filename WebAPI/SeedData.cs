@@ -13,9 +13,7 @@ public static class SeedData
             var provider = scope.ServiceProvider;
             var quizRepo = provider.GetService<IGenericRepository<Quiz, int>>();
             var quizItemRepo = provider.GetService<IGenericRepository<QuizItem, int>>();
-
-            List<QuizItem> quizItems = new List<QuizItem>();
-
+            
             List<QuizItem> mathQuizItems = new List<QuizItem>();
 
             mathQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 1, correctAnswer: "6", question: "2 + 4",
@@ -25,17 +23,7 @@ public static class SeedData
             mathQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 3, correctAnswer: "4", question: "8 / 2",
                 incorrectAnswers: new List<string>() { "5", "7", "8" })));
             quizRepo.Add(new Quiz(id: 1, items: mathQuizItems, title: "Matematyka"));
-
-            List<QuizItem> geographyQuizItems = new List<QuizItem>();
-
-            geographyQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 4, correctAnswer: "Polska",
-                question: "Co to za kraj: Warszawa",
-                incorrectAnswers: new List<string>() { "Albania", "Rosja", "Czechy" })));
-            geographyQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 5, correctAnswer: "Malta",
-                question: "Co to za kraj: Valetta",
-                incorrectAnswers: new List<string>() { "Zanzibar", "Egipt", "Słowacja" })));
-            quizRepo.Add(new Quiz(id: 2, items: geographyQuizItems, title: "Geografia"));
-
+            
             List<QuizItem> historyQuizItems = new List<QuizItem>();
 
             historyQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 6, correctAnswer: "1945",
@@ -44,7 +32,7 @@ public static class SeedData
             historyQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 7, correctAnswer: "Julius Caesar",
                 question: "Who was assassinated on the Ides of March?",
                 incorrectAnswers: new List<string>() { "Augustus", "Nero", "Caligula" })));
-            quizRepo.Add(new Quiz(id: 3, items: historyQuizItems, title: "Historia"));
+            quizRepo.Add(new Quiz(id: 2, items: historyQuizItems, title: "Historia"));
 
             List<QuizItem> scienceQuizItems = new List<QuizItem>();
 
@@ -54,7 +42,7 @@ public static class SeedData
             scienceQuizItems.Add(quizItemRepo.Add(new QuizItem(id: 9, correctAnswer: "Einstein",
                 question: "Who developed the theory of relativity?",
                 incorrectAnswers: new List<string>() { "Newton", "Galileo", "Curie" })));
-            quizRepo.Add(new Quiz(id: 4, items: scienceQuizItems, title: "Nauka"));
+            quizRepo.Add(new Quiz(id: 3, items: scienceQuizItems, title: "Nauka"));
         }
     }
 }
